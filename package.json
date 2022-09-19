@@ -3,7 +3,7 @@
     "version": "2.0.7",
     "displayName": "Monaca Template Minimum",
     "dependencies": {
-        "cordova-custom-config": "5.1.0",
+        "cordova-custom-config": "^2.0.0",
         "cordova-plugin-splashscreen": "6.0.0",
         "monaca-plugin-monaca-core": "3.3.1"
     },
@@ -20,6 +20,6 @@
     },
     "devDependencies": {
         "browser-sync": "^2.26.7",
-        "cordova": "^11.0.0"
+        "cordova": "^5.3.3"
     }
 }
