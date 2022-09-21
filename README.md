@@ -1,5 +1,6 @@
 # 環境構築
-[ぷよぷよプログラミングの環境構築](https://www.youtube.com/watch?v=C4nxOX8sl5g)
+[ぷよぷよプログラミング](https://puyo.sega.jp/program_2020/)（公式ホームページ）    
+[ぷよぷよプログラミングの環境構築](https://www.youtube.com/watch?v=C4nxOX8sl5g)（わかりやすいYouTube）
 
 ## 使い方
 
